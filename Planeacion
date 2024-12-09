@@ -24,7 +24,7 @@ El proyecto se dividió en 7 fases principales:
 7. **Gestión del Proyecto**  
    - Seguimiento continuo del progreso, gestión de cambios y resolución de problemas.  
 
-![Estructura de Desglose del Trabajo (EDT)](imagenes/edt)
+![Estructura de Desglose del Trabajo (EDT)](imagenes/edt.png)
 
 ## 2. Cronograma del Proyecto
 
@@ -35,7 +35,7 @@ Para gestionar el tiempo, se creó un **cronograma en formato Gantt** utilizando
 - Las tareas se organizaron con dependencias claras y plazos específicos.  
 - El monitoreo y la gestión del proyecto se realizan de manera continua para garantizar el éxito de la implementación.  
 
-![Estructura de Desglose del Trabajo (EDT)](imagenes/jira)
+![Estructura de Desglose del Trabajo (EDT)](imagenes/jira.png)
 [Ver cronograma en Jira](https://vaalenmedina.atlassian.net/jira/core/projects/GTM/summary?atlOrigin=eyJpIjoiZTEzNmUyNjM0ODQ0NDFhMmJhZjZiNjMwZDVmNTQ0YTEiLCJwIjoiaiJ9)
 
 ## 3. Herramientas Utilizadas
