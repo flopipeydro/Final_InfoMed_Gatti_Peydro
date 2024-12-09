@@ -51,4 +51,10 @@ Cada tabla incluye claves primarias (PK) y foráneas (FK) que permiten vincular 
 
 ![Diagrama Entidad-Relación](imagenes/der.png)
 
+## 4. Tablero en LookerStudio
+
+Para poder visualizar de manera más comoda ciertos datos relevantes de las tablas de la base de datos, armamos un tablero en LookerStudio. Ademas es parte del sistema que queremos implementar ya que permite ver de manera facil, visual y resumida la información relevante de los pacientes.
+
+[Ver tablero en LookerStudio]([https://vaalenmedina.atlassian.net/jira/core/projects/GTM/summary?atlOrigin=eyJpIjoiZTEzNmUyNjM0ODQ0NDFhMmJhZjZiNjMwZDVmNTQ0YTEiLCJwIjoiaiJ9](https://lookerstudio.google.com/s/iryBbq1YkBk))
+
 ---
