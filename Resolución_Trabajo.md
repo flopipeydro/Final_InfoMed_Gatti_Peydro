@@ -1,6 +1,6 @@
 # Implementación Hospitalaria de ChronicCare
 
-Este repositorio documenta el proceso de implementación hospitalaria del sistema **ChronicCare**. A continuación, se describe el trabajo realizado, junto con los entregables principales.
+Este archivo documenta el proceso de implementación hospitalaria del sistema **ChronicCare**. A continuación, se describe el trabajo realizado, junto con los entregables principales.
 
 ## 1. Desglose del Trabajo (EDT)
 
