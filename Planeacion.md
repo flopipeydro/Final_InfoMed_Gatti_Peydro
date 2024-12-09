@@ -38,8 +38,17 @@ Para gestionar el tiempo, se creó un **cronograma en formato Gantt** utilizando
 ![Estructura de Desglose del Trabajo (EDT)](imagenes/jira.png)
 [Ver cronograma en Jira](https://vaalenmedina.atlassian.net/jira/core/projects/GTM/summary?atlOrigin=eyJpIjoiZTEzNmUyNjM0ODQ0NDFhMmJhZjZiNjMwZDVmNTQ0YTEiLCJwIjoiaiJ9)
 
-## 3. Herramientas Utilizadas
-- **Lucidchart**: Para crear el EDT del proyecto.  
-- **Jira**: Para gestionar el cronograma, asignar tareas y realizar el seguimiento del progreso.  
+## 3. Diagrama Entidad-Relación
+
+Modelo relacional de nuestra base de datos, que cuenta con las siguientes tablas: 
+1. **Pacientes**: Datos personales y de contacto.
+2. **Consultas**: Fechas y notas médicas asociadas al paciente.
+3. **Diagnósticos**: Información clínica detallada basada en códigos SNOMED.
+4. **Medicaciones**: Tratamientos prescritos con sus detalles.
+5. **Resultados de Laboratorio**: Registro de pruebas médicas y sus resultados.
+
+Cada tabla incluye claves primarias (PK) y foráneas (FK) que permiten vincular la información de manera eficiente, asegurando integridad y trazabilidad en los datos médicos.
+
+![Diagrama Entidad-Relación](imagenes/der.png)
 
 ---
